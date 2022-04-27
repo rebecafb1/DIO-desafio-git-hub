@@ -1,2 +1,3 @@
-# DIO-desafio-git-hub
-Primeiro repositório
+# Livro de receitas 🍰
+Repositório criado para o desafio de projeto.
+
